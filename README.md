@@ -1,8 +1,16 @@
-# React + Vite
+# E-License System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## E-License System is a full-fledged web platform developed to digitize and automate the entire driving license issuance process. It replaces traditional, paper-based workflows with a streamlined digital experience.
 
-Currently, two official plugins are available:
+### Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Online application submission for driving licenses.
+Automated verification, approval, and license issuance.
+Real-time status tracking for users.
+Reduces paperwork and manual workload for government authorities.
+
+### Tech Stack
+
+Frontend: React.js, Tailwind CSS
+Backend: Node.js
+Database: FireBase
