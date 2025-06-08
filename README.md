@@ -11,6 +11,6 @@ Reduces paperwork and manual workload for government authorities.
 
 ### Tech Stack
 
-Frontend: React.js, Tailwind CSS
-Backend: Node.js
+Frontend: React.js, Tailwind CSS |
+Backend: Node.js |
 Database: FireBase
